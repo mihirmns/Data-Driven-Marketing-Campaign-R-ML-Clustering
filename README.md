@@ -1,4 +1,4 @@
-# Mihir
+# Data Analytics for Designing Marketing Campaigns for Airlines
 
 The data contain information on
 passengers who belong to an airline's frequent flyer program. The data include information on
